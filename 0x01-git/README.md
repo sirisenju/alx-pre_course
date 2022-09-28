@@ -1,1 +1,1 @@
-This file contains all the thenical know how of this repo
+Follow the instructions to use our product well
